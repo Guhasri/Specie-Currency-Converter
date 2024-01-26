@@ -1,0 +1,13 @@
+{
+    "name": "Specie",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    },
+    "author": "Guhasri",
+    "icons": {
+        "128": "currency.png"
+    },
+    "permissions": ["activeTab"]
+}
